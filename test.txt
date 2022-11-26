@@ -1,0 +1,10 @@
+GIT教程
+https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304
+
+git config --global user.name
+git config --global user.email
+
+git remote rm origin
+git remote add origin https://codeblabla.git
+git remote -v
+git push origin master
